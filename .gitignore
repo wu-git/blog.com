@@ -3,6 +3,17 @@
 .Rapp.history
 
 # Session Data files
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public
+static/figures
+blogdown
+
+
+
 .RData
 
 # Example code in package build process
@@ -34,3 +45,4 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+.Rproj.user
